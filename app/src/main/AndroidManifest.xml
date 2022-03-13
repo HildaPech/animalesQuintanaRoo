@@ -10,7 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".listaAnimales"
+            android:name=".Platano"
+            android:exported="false" />
+        <activity
+            android:name=".Sandia"
+            android:exported="false" />
+        <activity
+            android:name=".Durazno"
+            android:exported="false" />
+        <activity
+            android:name=".Manzana"
+            android:exported="false" />
+        <activity
+            android:name=".ListaAnimales"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

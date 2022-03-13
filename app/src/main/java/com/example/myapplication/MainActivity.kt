@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity(){
             val nUsuario = txtNombre.getText().toString()
             val pass:String = txtPass.getText().toString()
             if (nUsuario.equals("Hilda") && pass.equals("yayix1001")){
-                var intent = Intent(this, listaAnimales::class.java)
+                var intent = Intent(this, ListaAnimales::class.java)
                 startActivity(intent)
                 Toast.makeText(this, "Conoce a los animales", Toast.LENGTH_SHORT).show()
             }else{
