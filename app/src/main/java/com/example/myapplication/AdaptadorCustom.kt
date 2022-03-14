@@ -9,9 +9,9 @@ import android.view.ViewGroup
 import android.widget.*
 import androidx.recyclerview.widget.RecyclerView
 
-class AdaptadorCustom(var context: Context, items:ArrayList<Animal>):BaseAdapter() {
+class AdaptadorCustom(var context: Context, items:ArrayList<Lista>):BaseAdapter() {
 
-    var items:ArrayList<Animal>? = null
+    var items:ArrayList<Lista>? = null
 
     init {
         this.items = items
@@ -44,7 +44,7 @@ class AdaptadorCustom(var context: Context, items:ArrayList<Animal>):BaseAdapter
         }
 
 
-        val item = getItem(position) as Animal
+        val item = getItem(position) as Lista
 
         holder?.nombre?.text = item.nombre
         holder?.imagen?.setImageResource(item.imagen)

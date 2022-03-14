@@ -3,16 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_artropodos.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_aves.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_cuadricula.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detalle_anfibio.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detalle_animal.xml" value="0.21" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detalle_artropodo.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detalle_extincion.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detalle_mamifero.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detalle_pez.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detalle_reptil.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_durazno.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_extincion.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_lista_animales.xml" value="0.1644021739130435" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_manzana.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_platanito.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_platano.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_reptiles.xml" value="0.16983695652173914" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sandia.xml" value="0.17255434782608695" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/lista_animales.xml" value="0.15670289855072464" />
-        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/template.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/template.xml" value="0.20622568093385213" />
         <entry key="..\:/Users/Ilda Pech/AndroidStudioProjects/MyApplication/app/src/main/res/layout/templategrid.xml" value="0.17074275362318841" />
       </map>
     </option>

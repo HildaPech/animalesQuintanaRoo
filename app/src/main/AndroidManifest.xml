@@ -10,16 +10,40 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".Platano"
+            android:name=".DetallePez"
             android:exported="false" />
         <activity
-            android:name=".Sandia"
+            android:name=".DetalleMamifero"
             android:exported="false" />
         <activity
-            android:name=".Durazno"
+            android:name=".DetalleAnfibio"
             android:exported="false" />
         <activity
-            android:name=".Manzana"
+            android:name=".DetalleArtropodo"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleReptil"
+            android:exported="false" />
+        <activity
+            android:name=".Artropodos"
+            android:exported="false" />
+        <activity
+            android:name=".Anfibios"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAve"
+            android:exported="false" />
+        <activity
+            android:name=".Mamiferos"
+            android:exported="false" />
+        <activity
+            android:name=".Peces"
+            android:exported="false" />
+        <activity
+            android:name=".Aves"
+            android:exported="false" />
+        <activity
+            android:name=".Reptiles"
             android:exported="false" />
         <activity
             android:name=".ListaAnimales"
