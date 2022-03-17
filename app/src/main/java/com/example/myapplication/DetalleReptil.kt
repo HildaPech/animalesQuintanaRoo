@@ -16,14 +16,13 @@ class DetalleReptil : AppCompatActivity() {
         var tvNombre = findViewById<TextView>(R.id.tvNombre)
         var tvNombreC = findViewById<TextView>(R.id.tvNombreC)
         var tvDescripcion = findViewById<TextView>(R.id.tvDescripcion)
-        var tvHabitat = findViewById<TextView>(R.id.tvHabitat)
-        var tvAlimentacion = findViewById<TextView>(R.id.tvAliment)
+
 
         imageView.setImageResource(contacto!!.imagenD)
         tvNombre.text= contacto?.nombre
         tvNombreC.text= contacto?.nombreC
         tvDescripcion.text= contacto?.descripcion
-        tvHabitat.text= contacto?.habitat
-        tvAlimentacion.text= contacto?.alimentacion
+
+
     }
 }

@@ -4,10 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#9FE1B0"
+    android:background="@drawable/fondologin"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="283dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:textAlignment="center"
+        app:srcCompat="@drawable/lg" />
 
     <TextView
         android:id="@+id/txtMensaje"
@@ -16,7 +26,9 @@
         android:layout_gravity="center"
         android:layout_marginTop="15dp"
         android:text="Ingresa tus credenciales"
-        android:textSize="20sp" />
+        android:textColor="#9C27B0"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/textView"
@@ -78,7 +90,6 @@
             android:textSize="18sp" />
 
     </LinearLayout>
-
 
 
 </LinearLayout>
